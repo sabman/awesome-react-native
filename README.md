@@ -902,6 +902,7 @@ Components and native modules.
 ### Geolocation
 
 * [react-native-background-geolocation ★1316](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated cross-platform background location-tracking & geofencing module with battery-conscious motion-detection intelligence (Android requires paid license).
+* [react-native-geolocation-service ★1200](https://github.com/Agontuk/react-native-geolocation-service) - React native geolocation service for iOS and android. Fixes some timeout issues
 * [react-native-mauron85-background-geolocation ★657](https://github.com/mauron85/react-native-background-geolocation) - React Native Android and iOS module for background and foreground geolocation with battery-saving "circular region monitoring" and "stop detection"
 * [react-native-geocoder ★344](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
 * [react-native-geo-fencing ★100](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
